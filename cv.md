@@ -13,7 +13,7 @@ My goal is personal and professional development in IT sphere, particularly in s
 * HTML/HTML5
 * CSS/CSS3
 * Git - basic
-
+* js - basic
 
 ### **Code Examples:**
 https://github.com/ekaterinalushnikova
