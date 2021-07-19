@@ -1,1 +1,1 @@
-https://ekaterinalushnikova.github.io/rsschool-cv/index.html
+https://github.com/ekaterinalushnikova/rsschool-cv/blob/gh-pages/index.html
